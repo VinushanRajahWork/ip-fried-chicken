@@ -1,0 +1,5 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="24" cy="24" r="22" fill="#E11D48"/>
+    <path d="M24 8C15.163 8 8 15.163 8 24C8 32.837 15.163 40 24 40C32.837 40 40 32.837 40 24C40 15.163 32.837 8 24 8ZM28 30H20C19.448 30 19 29.552 19 29V19C19 18.448 19.448 18 20 18H28C28.552 18 29 18.448 29 19V29C29 29.552 28.552 30 28 30Z" fill="#FACC15"/>
+    <text x="24" y="30" font-size="16" font-weight="bold" fill="#111" text-anchor="middle">🍗</text>
+</svg>
